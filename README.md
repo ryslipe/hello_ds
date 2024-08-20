@@ -1,0 +1,1 @@
+This repository is a practice run for using Jupyter Notebook extension and GitHub commits from VS Code. It contains a very basic Naive Bayes model and Neural Network to predict survival for the Titanic dataset.
